@@ -35,7 +35,8 @@ Menu options include:
 ### How to Run
 Load Data:
 ```
-python main.py
+cd src
+gcc Terminal.c -o main
 ```
 Run Menu and Features: Use the interactive menu to manage student records and generate reports.
 
